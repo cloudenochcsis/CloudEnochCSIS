@@ -1,5 +1,13 @@
-# 💫 About Me:
-# Hi there 👋<br><br>I'm Enoch, a passionate IT professional with strong interests in Cloud Infrastructure and DevOps, with a focus on Cybersecurity.<br><br>- 🔭 Currently a PhD researcher exploring Artificial Intelligence in cybersecurity.<br>- 🛠️ Skilled in using Terraform, Docker, and various cloud technologies to build scalable and secure solutions.<br>- 🌱 Always learning and experimenting with new tools and frameworks.<br>- 💬 Let's connect! I'm open to collaboration on cloud, DevOps, or AI-driven cybersecurity projects.<br><br>
+### Hi there 👋
+
+I'm **Enoch**, a passionate IT professional with strong interests in **Cloud Infrastructure** and **DevOps**, focusing on **Cybersecurity**.
+
+- 🔭 Currently a **PhD researcher** exploring **Artificial Intelligence** in cybersecurity.
+- 🛠️ Skilled in **Terraform**, **Docker**, and various cloud technologies.
+- 🌱 Always learning and experimenting with new tools and frameworks.
+- 💬 Open to collaboration on cloud, DevOps, or AI-driven cybersecurity projects.
+
+Let's connect and collaborate!
 
 
 # 💻 Tech Stack:
