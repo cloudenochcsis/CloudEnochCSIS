@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Enoch**, a passionate IT professional with strong interests in **Cloud Infrastructure** and **DevOps**, with a focus on **Security**.
+I'm **Enoch**, a passionate IT professional with strong interests in **Cloud Engineering** and **DevOps**, with a focus on **Security**.
 
 - 🔭 Currently a **Doctoral Researcher** exploring **Artificial Intelligence** in Cybersecurity.
 - 🛠️ Skilled in **Terraform**, **Docker**, and various cloud technologies.
