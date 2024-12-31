@@ -2,7 +2,7 @@
 
 I'm **Enoch**, a passionate IT professional with strong interests in **Cloud Engineering** and **DevOps**, with a focus on **Security**.
 
-- 🔭 Currently a **Doctoral Researcher** exploring **Artificial Intelligence** in Cybersecurity.
+- 🔭 Currently a **Doctoral Researcher** exploring **Artificial Intelligence** in Cybersecurity and also studying for my AZ-104 Exams.
 - 🛠️ Skilled in **Terraform**, **Docker**, and various cloud technologies.
 - 🌱 Always learning and experimenting with new tools and frameworks.
 - 💬 Open to collaboration on Cloud, DevOps, or AI-driven Cybersecurity projects.
