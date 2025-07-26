@@ -5,7 +5,7 @@ I'm **Enoch**, a passionate IT professional with strong interests in **Cloud Eng
 - 🔭 Currently a **Doctoral Researcher** exploring **Artificial Intelligence**.
 - 🛠️ Skilled in **Terraform**, **Docker**, and various cloud technologies.
 - 🌱 Always learning and experimenting with new tools and frameworks.
-- 💬 Open to collaboration on Cloud and DevOps.
+- 💬 Open to collaboration on Cloud and DevOps Projects.
 
 Let's connect and collaborate!
 
